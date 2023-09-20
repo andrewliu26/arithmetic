@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">arithmetic</string>
+    <string-array name="operations">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>%</item>
+    </string-array>
+    <string name="num_prompt">Enter number</string>
+    <string name="calc_button">Calculate</string>
+</resources>
